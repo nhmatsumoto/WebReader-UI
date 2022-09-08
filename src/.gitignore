@@ -181,7 +181,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# App
-package-lock.json
-yarn.lock
